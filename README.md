@@ -5,7 +5,7 @@
 </p>
 
 Authenticator — Authenticator generates 2-Step Verification codes in your browser.
-
+Authenticator generates 2-Step Verification codes in your browser.
 
 > One clear job, done well.
 
@@ -16,3 +16,7 @@ npm install
 ---
 
 *Authenticator is part of the [OCAS Agent Suite](https://github.com/indigokarasu).*
+
+## MIT License
+
+See [LICENSE](LICENSE) for details.
